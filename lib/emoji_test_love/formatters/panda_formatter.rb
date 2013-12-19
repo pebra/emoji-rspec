@@ -1,3 +1,4 @@
+# encoding: utf-8
 module EmojiTestLove
   class Panda
     def passed_display
@@ -13,7 +14,7 @@ module EmojiTestLove
     end
     
     def names
-      'panda'
+      ['panda']
     end
   end
 end
